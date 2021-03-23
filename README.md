@@ -8,8 +8,6 @@ As a 2020 Computer Science graduate, my reasons for adopting this challenge are 
 
 I will be tweeting about my progress over on [twitter](http://www.twitter.com/gloweio)
 
-Start: 24 March 2020, End: Ongoing
-
 |  Start Date | End Date |
 | ------------------ | ------------------ |
 | March 24th, 2020 | Ongoing|

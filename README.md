@@ -10,6 +10,11 @@ I will be tweeting about my progress at twitter.com/gloweio
 
 Start: 24 March 2020, End: Ongoing
 
+|  Start Date | End Date |
+| ------------------ | ------------------ |
+| March 24 May, 2020 | ------------------|
+
+
 ## What will my 100 days consist of?
 
 I don't have a plan for the full 100 days but I have a few ideas of where I would like to go:

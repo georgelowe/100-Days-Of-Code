@@ -27,11 +27,11 @@ As mentioned above, the e-commerce business I run definitely has the room for au
 
 Finally, I would like to implement and experiment with an object detection algorithm in Python and Tensorflow as I am interested in the applications of ML.
 
-## Log
+## Weekly Log
 
-### Day 1: March 24<sup>th</sup> 2021
+### Week 1: End March 30<sup>th</sup> 2021
 
-**Todays Progress:**
+**Progress:**
 
 -
 

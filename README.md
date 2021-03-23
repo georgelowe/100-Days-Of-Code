@@ -23,7 +23,7 @@ The first leg of this journey will be spent revisiting data structures and algor
 
 I would also like to redesign and publish my portfolio website ([www.gwmlowe.com](http://www.gwmlowe.com)), and perhaps publish the above visualisations here.
 
-Inspired by Dan Abramovs 'Things I Don't Know as of 2018', I have been keeping a personal list of topics that I have no experience with at all. Of course, being in this industry, this list is extensive and contains many topics of varying depths but these are a few I would like to address: TypeScript, CSS Flexbox, iOS development, Docker. Some of these are larger than others so I will allocate my time accordingly.
+Inspired by Dan Abramovs ['Things I Don't Know as of 2018'](https://overreacted.io/things-i-dont-know-as-of-2018/), I have been keeping a personal list of topics that I have no experience with at all. Of course, being in this industry, this list is extensive and contains many topics of varying depths but these are a few I would like to address: TypeScript, CSS Flexbox, iOS development, Docker. Some of these are larger than others so I will allocate my time accordingly.
 
 As mentioned above, the e-commerce business I run definitely has the room for automation. Sometimes the volume of orders is quite overwhelming hence I would like to write some code to better manage this. I would also like to utilise the API provided by one of our suppliers as again that would save considerable amount of time with ordering and shipments.
 

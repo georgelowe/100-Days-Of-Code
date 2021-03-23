@@ -6,7 +6,7 @@ The challenge is to simply write code for a minimum of one hour per day for the 
 
 As a 2020 Computer Science graduate, my reasons for adopting this challenge are to solidify concepts learned during my degree, to build consistency, to explore new technologies and to work on automating tasks I encounter whilst running my small e-commerce business (read: gwmlowe.com/pets).
 
-I will be tweeting about my progress at([twitter](http://www.twitter.com/gloweio))
+I will be tweeting about my progress over on [twitter](http://www.twitter.com/gloweio)
 
 Start: 24 March 2020, End: Ongoing
 

@@ -12,7 +12,7 @@ Start: 24 March 2020, End: Ongoing
 
 |  Start Date | End Date |
 | ------------------ | ------------------ |
-| March 24 May, 2020 | ------------------|
+| March 24 May, 2020 | Ongoing|
 
 
 ## What will my 100 days consist of?

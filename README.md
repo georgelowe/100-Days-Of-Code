@@ -29,7 +29,7 @@ Finally, I would like to implement and experiment with an object detection algor
 
 ## Weekly Log
 
-### Week 1: End March 30<sup>th</sup> 2021
+### End of Week 1
 
 **Progress:**
 

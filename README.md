@@ -4,7 +4,7 @@
 
 The challenge is to simply write code for a minimum of one hour per day for the next 100 days ([official challenge repo](https://github.com/Kallaway/100-days-of-code)).
 
-As a 2020 Computer Science graduate, my reasons for adopting this challenge are to solidify concepts learned during my degree, to build consistency, to explore new technologies and to work on automating tasks I encounter whilst running my small e-commerce business ([read my blog post here](http://gwmlowe.com/pets))
+As a 2020 Computer Science graduate, my reasons for adopting this challenge are to solidify concepts learned during my degree, to build consistency, to explore new technologies and to work on automating tasks I encounter whilst running my small e-commerce business ([read my blog post here](http://gwmlowe.com/pets)).
 
 I will be tweeting about my progress over on [twitter](http://www.twitter.com/gloweio)
 

@@ -30,4 +30,8 @@ class HashTable {
       return this.table[index].find((x) => x[0] === key)[1];
     }
   };
+
+  // To implement:
+  // exists method
+  // remove method
 }

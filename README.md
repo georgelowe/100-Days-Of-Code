@@ -4,7 +4,7 @@
 
 The challenge is to simply write code for a minimum of one hour per day for the next 100 days ([official challenge repo](https://github.com/Kallaway/100-days-of-code)).
 
-As a 2020 Computer Science graduate, my reasons for adopting this challenge are to solidify concepts learned during my degree, to build consistency, to explore new technologies and to work on automating tasks I encounter whilst running my small e-commerce business ([read my blog post here](http://gwmlowe.com/pets)).
+As a 2020 Computer Science graduate, my reasons for adopting this challenge are to solidify concepts learned during my degree, to build consistency, to explore new technologies and to work on automating tasks I encounter whilst running my small e-commerce business ([read my blog post here](http://georgelowe.io)).
 
 I will be tweeting about my progress over on [twitter](http://www.twitter.com/gloweio)
 
@@ -18,7 +18,7 @@ I don't have a plan for the full 100 days but I have a few ideas of where I woul
 
 The first leg of this journey will be spent revisiting data structures and algorithms and implementing them in JavaScript (I am fairly new to JS too). My intention is to create visualisations of some of the searches and sorts that I have learned previously.
 
-I would also like to redesign and publish my portfolio website ([www.gwmlowe.com](http://www.gwmlowe.com)), and perhaps publish the above visualisations here.
+I would also like to redesign and publish my portfolio website ([www.georgelowe.io](http://www.georgelowe.io)), and perhaps publish the above visualisations here.
 
 Inspired by Dan Abramovs ['Things I Don't Know as of 2018'](https://overreacted.io/things-i-dont-know-as-of-2018/), I have been keeping a personal list of topics that I have no experience with at all. Of course, being in this industry, this list is extensive and contains many topics of varying depths but these are a few I would like to address: TypeScript, CSS Flexbox, iOS development, Docker. Some of these are larger than others so I will allocate my time accordingly.
 

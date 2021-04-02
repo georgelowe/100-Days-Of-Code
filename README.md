@@ -28,13 +28,21 @@ Finally, I would like to implement and experiment with an object detection algor
 
 ## Weekly Log
 
+### End of Week 2: Wednesday April 7th
+
+**Progress:**
+
+- **Learned/Notes:**
+
+- **Thoughts:**
+
 ### End of Week 1: Wednesday March 31st
 
 **Progress:**
 
-- **Learned/Notes:** A good start to the challenge, I forgot to push code on one day but I have got a fair amount done. Implemented a few data structures and revisited these in JavaScript. I also made a good start with my Instagram Automation project ['Instagram Automation Project'](https://github.com/georgelowe/Instagram-Automation)
+- **Learned/Notes:** A good start to the challenge, I forgot to push code on one day but I have got a fair amount done. Implemented a few data structures and revisited these in JavaScript. I also made a good start with my [Instagram automation project](https://github.com/georgelowe/Instagram-Automation)
 
-- **Thoughts:** Next week I want to wrap up the Instagram bot, perhaps do a few more data structures / algorithms, refactor my code for my ['Object Tracking for VR Experiences'](https://github.com/georgelowe/VR-Object-Tracking) and make some progress on my portfolio site
+- **Thoughts:** Next week I want to wrap up the Instagram bot, perhaps do a few more data structures / algorithms, refactor my code for my [Object Tracking for VR Experiences](https://github.com/georgelowe/VR-Object-Tracking) and make some progress on my portfolio site
 
 [George Lowe](https://github.com/georgelowe)
 
